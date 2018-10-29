@@ -1,17 +1,3 @@
-"""
-A program that stores this book information:
-Title, Author, Year, ISBN
-
-User can:
-
-View all records
-Search an entry
-Add entry
-Update
-Delete
-Close
-"""
-
 import tkinter
 import backend
 
